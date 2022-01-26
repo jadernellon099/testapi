@@ -1089,7 +1089,7 @@
 
 "@frontity/core@^1.14.3":
   version "1.14.3"
-  resolved "https://registry.npmjs.org/@frontity/core/-/core-1.14.3.tgz"
+  resolved "https://registry.yarnpkg.com/@frontity/core/-/core-1.14.3.tgz#870ee61cc17f54bbd232b069e7644e0de94c8308"
   integrity sha512-fE6wBFqyfxGlqBfe0drvIgpcw9EzMy0GpPUzKcIeNnGyQsuCs+1LZMw9ULokj8Mzn3M0FOEicMmGK0djB25hKA==
   dependencies:
     "@babel/core" "^7.12.10"

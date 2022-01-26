@@ -1,0 +1,75 @@
+{
+  "errors": [],
+  "warnings": [],
+  "hash": "268127d3873a6c5a574f",
+  "publicPath": "/static/",
+  "outputPath": "D:\\react\\wp-frontity\\build\\static",
+  "assetsByChunkName": {
+    "list": "list.module.js",
+    "wp": "wp.module.js"
+  },
+  "assets": [
+    {
+      "name": "list.module.js",
+      "size": 46853,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "wp.module.js",
+      "size": 7314746,
+      "chunks": [
+        "wp"
+      ],
+      "chunkNames": [
+        "wp"
+      ],
+      "info": {},
+      "emitted": true
+    }
+  ],
+  "filteredAssets": 0,
+  "namedChunkGroups": {
+    "wp": {
+      "chunks": [
+        "wp"
+      ],
+      "assets": [
+        "wp.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "generator": "loadable-components",
+  "chunks": [
+    {
+      "id": "list",
+      "files": [
+        "list.module.js"
+      ]
+    },
+    {
+      "id": "wp",
+      "files": [
+        "wp.module.js"
+      ]
+    }
+  ]
+}
