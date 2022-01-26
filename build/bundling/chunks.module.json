@@ -1,7 +1,7 @@
 {
   "errors": [],
   "warnings": [],
-  "hash": "268127d3873a6c5a574f",
+  "hash": "d9683cf5d2285a93dfbc",
   "publicPath": "/static/",
   "outputPath": "D:\\react\\wp-frontity\\build\\static",
   "assetsByChunkName": {
@@ -31,7 +31,7 @@
         "wp"
       ],
       "info": {},
-      "emitted": true
+      "emitted": false
     }
   ],
   "filteredAssets": 0,

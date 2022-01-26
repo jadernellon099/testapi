@@ -45,7 +45,7 @@ const settings = {
       "name": "@frontity/wp-source",
       "state": {
         "source": {
-          "url": "http://localhost/react-wp"
+          "url": "https://88jun.net/"
         }
       }
     },
